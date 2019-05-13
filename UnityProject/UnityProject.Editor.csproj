@@ -359,12 +359,6 @@
     <None Include="Assets\ImageBasedLighting\Marmoset\Documentation\Skyshop.txt" />
     <None Include="Assets\ImageBasedLighting\Marmoset\Documentation\Terrain.txt" />
     <None Include="Assets\ImageBasedLighting\Marmoset\Documentation\Vegetation.txt" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\mopedProbed\BeastSettings.xml" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\occlusionDemo\BeastSettings.xml" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\shaderForgeDemo\BeastSettings.xml" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\shaderForgeDemo\MarmosetDemo.shader" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\shaderForgeDemo\MarmosetDemoOcc.shader" />
-    <None Include="Assets\ImageBasedLighting\Marmoset\Examples\Examples\Scene\shaderForgeDemo\MarmosetDemoOccTrans.shader" />
     <None Include="Assets\ImageBasedLighting\Marmoset\External\Lightmapping Extended\Presets\Built-in\High Quality.xml" />
     <None Include="Assets\ImageBasedLighting\Marmoset\External\Lightmapping Extended\Presets\Built-in\Low Quality.xml" />
     <None Include="Assets\ImageBasedLighting\Marmoset\Shader\Beta\Layered\Marmoset 2-Layer IBL.shader" />

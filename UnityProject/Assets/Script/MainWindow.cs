@@ -5,8 +5,8 @@ using UnityEditor;
 using mset;
 
 public class MainWindow : EditorWindow {
-    private Texture2D background=null;
-    private Cubemap enviromentMap=null;
+    static private Texture2D background=null;
+    static private Cubemap enviromentMap=null;
     private IBLWrapper iBLWrapper = null;
     private ViewCamera viewCamera = null;
 
