@@ -47,13 +47,17 @@ Why? Because the outdoor light source is mainlly contributed by sun. It is a sin
 But in indoor cases, the light source is extremely unpredictable and complex. So we use an end-to-end method to generate a HDR map.  
 To sum up, because of the simple lighting conditions and its universality. We distinguish outdoor case to optimize it.
 # Main reference
-render object:   
+Render object:   
 [image-based-lighting](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/Image-Based%20Lighting.pdf)  
 
 [synthetic object rendering](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/Rendering%20Synthetic%20Objects%20into%20Real%20Scenes.pdf)   
 
-get enviroment map from outdoor cases:   
-[predict indoor illumination](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/Learning%20to%20Predict%20Indoor%20Illumination%20from%20a%20Single%20Image.pdf)
 
-get enviroment map from indoor cases:   
+Get enviroment map from indoor cases:   
 [outdoor illumination](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/deep%20outdoor%20%20Illumination%20Estimation.pdf)
+
+Get enviroment map from outdoor cases:   
+[predict indoor illumination](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/Learning%20to%20Predict%20Indoor%20Illumination%20from%20a%20Single%20Image.pdf)  
+
+The way we parameterize sky (describe the outdoor lighting):  
+[Sky light model](https://github.com/W-Siqi/AI-predicting-rendering/blob/master/Reference/HosekWilkie_SkylightModel_SIGGRAPH2012_Preprint_lowres.pdf)
